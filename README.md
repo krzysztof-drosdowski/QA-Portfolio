@@ -1,34 +1,34 @@
 # QA Portfolio
 
-Portfolio zawiera przykłady mojej pracy związanej z testowaniem oprogramowania.
+Hi, I'm Krzysztof.
 
-## Zawartość
+This repository contains projects created during my learning journey in software testing.
 
-- Test eksploracyjny wyszukiwarki biletów Intercity
-- Checklista testów modułu logowania
-- Testy API wykonane w Postmanie
-- Przykładowe zgłoszenie błędu w stylu Jira
+## Projects
 
-## Obszary testowania
+### Manual Testing
+- Exploratory testing of the Intercity website
+- Login functionality checklist
 
-- testy manualne
-- testy eksploracyjne
-- testy API
-- raportowanie błędów
-- checklisty testowe
-- analiza wyników testów
+### API Testing
+- REST API testing using Postman
+- Fake Store API
 
-## Narzędzia
+### Bug Reports
+- Example bug reports
 
-- Jira
+## Tools and technologies
+
 - Postman
+- REST API
+- Git
 - GitHub
-- Chrome
-- Windows
-- SQL - podstawy
+- Basic SQL
+- Python - currently learning
 
-## Portfolio PDF
+## About me
 
-Pełna wersja portfolio znajduje się w pliku:
+I am currently developing my IT skills and learning Python programming.
+I also have experience with the fundamentals of manual software testing and API testing.
 
-`Krzysztof-Drosdowski-QA-Portfolio.pdf`
+My current goal is to continue developing my programming skills while building practical projects.
