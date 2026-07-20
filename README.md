@@ -32,8 +32,7 @@ Manual REST API testing performed using Postman. The project covers GET and POST
 
 ### Bug Reports
 
-#### [BUG-001 – Missing Information About Passenger Limit](bug-reports/BUG-001-intercity.md)
-
+#### [BUG-001 – Missing Information About Passenger Limit](api-testing/bug-reports/BUG-001-intercity.md)
 A structured bug report documenting a usability issue identified during exploratory testing of the PKP Intercity ticket booking process.
 
 ---
