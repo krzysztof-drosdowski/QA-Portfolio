@@ -63,7 +63,7 @@ The following elements were verified:
   "category": "kitchen",
   "image": "https://example.com/stol.jpg"
 }
-
+```
 
 
 
