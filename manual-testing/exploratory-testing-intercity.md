@@ -77,6 +77,14 @@ A detailed bug report related to this issue was created in Jira and documented w
 The report is also available in the `bug-reports` section of this repository.
 
 
+## Evidence
+
+Screenshots from the PKP Intercity booking process used during exploratory testing:
+
+- Passenger limit reached during booking
+- Additional ticket options and unavailable bicycle ticket
+<img width="1917" height="865" alt="Zrzut ekranu 2026-07-22 203730" src="https://github.com/user-attachments/assets/671010d0-ebdc-459d-b4d7-029b50fc3e43" />
+<img width="1917" height="845" alt="Zrzut ekranu 2026-07-22 203744" src="https://github.com/user-attachments/assets/c1a3b8f3-9edd-4178-9b94-f48d24f5a923" />
 
 ## Skills Demonstrated
 
