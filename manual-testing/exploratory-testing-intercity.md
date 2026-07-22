@@ -67,14 +67,17 @@ The lack of clear information may negatively affect the user experience and crea
 Display a clear message informing users about the maximum number of passengers allowed in a single booking.
 
 The message could also provide information or a link explaining how to make a group booking for more than six passengers.
-
 ---
 
 ## Bug Report
 
-A detailed bug report related to this issue is available in the `bug-reports` section of this repository.
+A detailed bug report related to this issue was created in Jira and documented with steps to reproduce, actual result, expected result and supporting screenshots.
 
----
+**Tool used:** Jira
+
+The report is also available in the `bug-reports` section of this repository.
+
+
 
 ## Skills Demonstrated
 
