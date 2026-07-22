@@ -66,7 +66,7 @@ A structured bug report documenting a usability issue identified during explorat
 
 A complete PDF version of my QA portfolio is also available in this repository:
 
-[Krzysztof Drosdowski – QA Portfolio PDF](Krzysztof-Drosdowski-QA-Portfolio.pdf)
+[Krzysztof Drosdowski - QA Portfolio PDF](Testing%20Portfolio%20Krzysztof%20Drosdowski.pdf)
 
 ---
 
