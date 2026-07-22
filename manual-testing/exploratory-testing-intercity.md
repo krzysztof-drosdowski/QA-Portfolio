@@ -67,7 +67,6 @@ The lack of clear information may negatively affect the user experience and crea
 Display a clear message informing users about the maximum number of passengers allowed in a single booking.
 
 The message could also provide information or a link explaining how to make a group booking for more than six passengers.
----
 
 ## Bug Report
 
